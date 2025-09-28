@@ -51,8 +51,7 @@ An enthusiastic web developer skilled in both frontend and backend. I enjoy buil
 </div>
 
 ##
-![Snake animation](https://raw.githubusercontent.com/abufattahmdshakib/abufattahmdshakib/main/dist/github-contribution-grid-snake.svg)
-
+snak
 
 ## 
 🤝 Let's Connect!
