@@ -1,5 +1,5 @@
 ## Hi There I'm Abu Fattah Md Shakib
-An enthusiastic web developer skilled in both frontend and backend. I enjoy building user-friendly and efficient web applications using JavaScript, React, Node.js, and MongoDB.
+An enthusiastic web developer skilled in both frontend and backend. I enjoy building user-friendly and efficient web applications using JavaScript, Next.js, React, Node.js, and MongoDB.
 ##
 <div>
   <img 
@@ -50,8 +50,6 @@ An enthusiastic web developer skilled in both frontend and backend. I enjoy buil
   </a>
 </div>
 
-##
-![Snake animation](https://raw.githubusercontent.com/abufattahmdshakib/abufattahmdshakib/main/dist/github-contribution-grid-snake.svg)
 
 
 ## 
