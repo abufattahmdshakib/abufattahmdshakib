@@ -52,20 +52,8 @@ An enthusiastic web developer skilled in both frontend and backend. I enjoy buil
 
 
 
-## 
-🤝 Let's Connect!
+## 🤝 Let's Connect!
 
-<ul>
-<ul>
-  <li>
-    🔗 <a href="https://www.linkedin.com/in/abu-fattah-md-shakib/" target="_blank">LinkedIn</a>
-  </li>
-  <li>
-  📧 <a href="mailto:abufattahmdshakib21@gmail.com" target="_blank" rel="noopener noreferrer">
-    Email
-  </a>
-</li>
-  <li>
-    💬 <a href="https://wa.me/8801710497133" target="_blank">WhatsApp</a>
-  </li>
-</ul>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abu-fattah-md-shakib/)
+- 📧 [Email](mailto:abufattahmdshakib21@gmail.com)
+- 💬 [WhatsApp](https://wa.me/8801710497133)
